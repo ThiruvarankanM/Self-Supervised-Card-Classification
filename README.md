@@ -77,12 +77,5 @@ A Streamlit web app is provided for easy card type prediction using the trained 
 
 ---
 
-## References
-- [PyTorch Documentation](https://pytorch.org/)
-- [Streamlit Documentation](https://docs.streamlit.io/)
-- [Self-Supervised Learning Papers](https://arxiv.org/abs/1805.01978)
-
----
-
 ## License
 MIT License
