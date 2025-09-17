@@ -8,15 +8,6 @@ This project implements a self-supervised learning pipeline for card type classi
 
 A Streamlit web app is provided for easy card type prediction using the trained model.
 
-## Overview
-This project implements a self-supervised learning pipeline for card type classification using PyTorch. The workflow consists of two main phases:
-
-1. **Self-Supervised Pretraining**: The model learns robust visual features by predicting the rotation angle of card images (0°, 90°, 180°, 270°) in an unsupervised manner.
-2. **Supervised Fine-Tuning**: The pretrained encoder is fine-tuned on a small labeled dataset to classify card types (e.g., bank card, ID card, visiting card, voter ID).
-
-A Streamlit web app is provided for easy card type prediction using the trained model.
-
-
 ---
 
 ## Project Structure
